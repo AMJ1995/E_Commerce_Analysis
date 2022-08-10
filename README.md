@@ -117,8 +117,12 @@ The training dataset contains every non-duplicated cart transaction with above m
 
 ![Dashboard](Resources/Images/dashboard.png)
 
+October 2019 visualizations
 https://public.tableau.com/app/profile/adam.joy3740/viz/TopBrandsCategoriesDashboard/Dashboard1
 https://public.tableau.com/app/profile/adam.joy3740/viz/Cart_oct_2019/Sheet1?publish=yes
+
+November 2019 visualizations
+https://public.tableau.com/app/profile/adam.joy3740/viz/revenue_/Sheet1
 
 ## Google Slides
 [E-Commerce Analysis Presentation](https://docs.google.com/presentation/d/1OEXk-PdzL35VCIkZmoJKg7Pm75DpVYqanqhUKytyYg0/edit?usp=sharing)
